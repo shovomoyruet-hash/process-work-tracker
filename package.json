@@ -1,0 +1,1 @@
+{"name":"process-work-tracker","version":"1.0.0","private":true,"scripts":{"check":"node --check app.js && node --check cloud.js","build":"node build.cjs"},"dependencies":{"@supabase/supabase-js":"2.117.1"}}
